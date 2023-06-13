@@ -1,7 +1,7 @@
-import React, {useState} from 'react';
+import React from 'react';
 
 const ReaderBookContainer = () => {
-    const [currentPage, updateCurrentPage] = useState(42);
+    const currentPage = 42;
     const maxPage = 333;
 
     return (
