@@ -10,7 +10,6 @@ const AddBookContainer = () => {
 
                 <div className="col-lg-6 mx-auto">
 
-                    <p className="lead">Sorry. Need to use only links because the app does not store books.</p>
                     <p className="font-monospace fw-light fst-italic">Support formats: FB2</p>
 
                     <div className="d-grid gap-2 d-sm-flex justify-content-sm-center">
